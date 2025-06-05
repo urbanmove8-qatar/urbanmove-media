@@ -1,2 +1,2 @@
 # urbanmove-media
-The videos and audios from Urbanmove projects
+Videos and audios for Kékhegy Urbanmove and Urbanmove 8.
